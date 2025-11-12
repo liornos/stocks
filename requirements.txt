@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 yfinance>=0.2.12
 pandas>=2.0.0
 
+=======
+yfinance>=0.2.12
+pandas>=2.0.0
+
+>>>>>>> bdf42e3a6767d6ff9f603e87431992fedf905d66

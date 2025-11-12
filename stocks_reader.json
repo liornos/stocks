@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 {
   "symbol": "AAPL",
   "price": 275.25,
   "currency": "USD",
   "time": "2025-11-11T00:00:00-05:00"
 }
+=======
+{
+  "symbol": "AAPL",
+  "price": 275.25,
+  "currency": "USD",
+  "time": "2025-11-11T00:00:00-05:00"
+}
+>>>>>>> bdf42e3a6767d6ff9f603e87431992fedf905d66
