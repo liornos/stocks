@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 """
 Command-line entry point for fetching stock quotes and historical data.
 """
@@ -141,8 +140,6 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
-=======
 """
 Command-line entry point for fetching stock quotes and historical data.
 """
@@ -285,5 +282,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
->>>>>>> bdf42e3a6767d6ff9f603e87431992fedf905d66

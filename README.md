@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Stocks Reader
 
 Small Python utility for fetching stock quotes and historical data using Yahoo Finance.
